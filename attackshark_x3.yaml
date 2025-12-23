@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.4.0.schema.json
 
 PackageIdentifier: AttackShark.X3.Driver
-PackageVersion: 1.0
+PackageVersion: "1.0"
 PackageName: AttackShark X3 Driver
 Publisher: AttackShark
 License: Freeware
@@ -14,6 +14,5 @@ Installers:
       - RelativeFilePath: "ATTACK SHARK X3 SOFT.exe"
     InstallerUrl: https://support.attackshark.com/ATTACKSHARK/X3/ATTACKSHARKX3.zip
     InstallerSha256: e7da2e8fa705ecaa0e8aede71daaa5e83984ea78c9fbbddbd5f65f917ec201dd
-    UpgradeBehavior: install
 ManifestType: installer
 ManifestVersion: 1.4.0
