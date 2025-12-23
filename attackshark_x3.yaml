@@ -15,5 +15,5 @@ Installers:
   InstallerUrl: https://support.attackshark.com/ATTACKSHARK/X3/ATTACKSHARKX3.zip
   InstallerSha256: e7da2e8fa705ecaa0e8aede71daaa5e83984ea78c9fbbddbd5f65f917ec201dd
   UpgradeBehavior: install
-ManifestType: installer
+ManifestType: singleton
 ManifestVersion: 1.4.0
