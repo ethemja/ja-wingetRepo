@@ -1,9 +1,10 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.4.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.singleton.1.4.0.schema.json
 
 PackageIdentifier: AttackShark.X3.Driver
 PackageVersion: "1.0"
 PackageName: AttackShark X3 Driver
 Publisher: AttackShark
+PackageLocale: en-US
 License: Freeware
 ShortDescription: Driver software for Attack Shark X3 mouse.
 Installers:
